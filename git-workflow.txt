@@ -1,16 +1,10 @@
 This is an use-case of Git Workflow - initial checkin
 Done with feature branch changes.
 Release changes done.
-
 Hot-fixes applied.
-
 Done with second feature branch changes.
 Donw with relese branch 0.2.0 branch.
-
 release changes added 0.3.0
 Branch settings updated.
-
-
-
 feature branch changes done.
 
