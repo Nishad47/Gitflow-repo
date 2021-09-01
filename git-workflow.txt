@@ -7,4 +7,9 @@ Hot-fixes applied.
 Done with second feature branch changes.
 Donw with relese branch 0.2.0 branch.
 
+release changes added 0.3.0
+
+
+
 feature branch changes done.
+
